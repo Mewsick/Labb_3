@@ -5,7 +5,7 @@
 //  Created by Eric Johansson on 2020-01-24.
 //  Copyright © 2020 Eric Johansson. All rights reserved.
 //
-
+//HEJ!
 #import "ViewController.h"
 #import "toDoCell.h"
 #import "objectInArray.h"
@@ -32,8 +32,6 @@
     }else{
         self.toDoList = [NSMutableArray new];
     }
-    
-    Hej!
 }
 
 - (void) saveState {
